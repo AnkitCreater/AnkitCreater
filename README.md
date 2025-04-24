@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm Ankit Shukla
 
-<!--
-**AnkitCreater/AnkitCreater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Undergrad | 💻 Aspiring Full-Stack Developer | 🌍 Open Source Contributor  
+📍 Based in Kanpur, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm passionate about building scalable web solutions and love contributing to open-source projects.  
+Currently leveling up my skills in **JavaScript, React, Node.js, and MongoDB**.
+
+---
+
+### 🔧 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js (learning...)
+- **Tools:** Git, GitHub, VS Code, Figma
+
+---
+
+### 📈 GitHub Stats
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkitCreater&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ankit-shukla-b7a59818a)  
+📬 Email: ankitsukla81038@gmail.com
