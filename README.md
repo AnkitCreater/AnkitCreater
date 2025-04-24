@@ -1,80 +1,91 @@
-<h1 align="center">Hey there 👋, I'm Ankit Shukla</h1>
+<h1 align="center">Hi 👋, I'm Ankit Shukla</h1>
+<h3 align="center">Full Stack Developer | B.Tech CSE | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Lover;&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0F62FE&center=true&vCenter=true&width=435&lines=Frontend+Dev+%7C+React+%26+Tailwind;Coffee+Fueled+Coder+%E2%98%95%EF%B8%8F;Open+Source+%E2%9D%A4%EF%B8%8F+Learning+Everyday" alt="Typing SVG" />
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering  
+- 💻 Passionate about full-stack development  
+- 🎯 Currently exploring backend technologies  
+- 🎨 I also enjoy video editing and creative storytelling  
+- 📫 Reach me at: **yourmail@example.com**
+
+---
+
+## 🚀 Tech Stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://yourdevfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=devfolio&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitshukla&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ankitshukla&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+---
+
+
+## 🧩 Featured Projects
+
+> Check them out on [DevFolio](https://yourdevfolio.com)
+
+- 🔹 **Personal Portfolio** – Modern design built with React + Tailwind + Framer Motion  
+- 🔹 **JWT Auth App** – User login/registration with Node.js and MongoDB  
+- 🔹 **Image Gallery** – Infinite scroll, Unsplash API & Masonry layout
+
+---
+
+
+## ☕ Coffee + Code Vibes
+
+<p align="center">
+  <img src="https://your-image-url-here" alt="Animated developer coding with coffee" width="400" />
+</p>
+
+---
+
+
+## 🔗 Let's Connect
+
+<p align="center">
   <a href="mailto:yourmail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ankitshukla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ankitshukla" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💫 About Me
-
-🎓 B.Tech CSE Student | 💻 Frontend Developer | 🎬 Video Editor  
-I love building things on the web — from responsive UIs to full-stack applications.  
-Currently exploring backend technologies and contributing to open-source.
-
----
-
-## 🛠️ Skills & Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitshukla&show_icons=true&theme=radical" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=ankitshukla&theme=radical&hide_border=false" width="45%" />
-</p>
-
----
-
-## 🧩 Projects on DevFolio
-
-Here are a few of my favorite projects listed on my [DevFolio](https://yourdevfolio.com):
-
-- 🎨 **Portfolio Website** – Built with React, Tailwind, and Framer Motion
-- 🔐 **Auth App** – JWT Auth, Node.js Backend
-- 📷 **Photo Gallery** – Uses Unsplash API + Masonry Layout
-
----
-
-## ☕ Enjoying Coffee & Code
-
-<p align="center">
-  <img src="https://your-image-url-here" width="300" alt="Boy enjoying coffee and coding" />
-</p>
-
----
-
-## 📫 Let's Connect!
-
-Feel free to reach out if you want to **collaborate**, **hire**, or just say hi 👋
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=100&section=footer" />
 </p>
