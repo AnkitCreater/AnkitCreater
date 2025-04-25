@@ -13,7 +13,7 @@
 - 💻 Passionate about full-stack development  
 - 🎯 Currently exploring backend technologies  
 - 🎨 I also enjoy video editing and creative storytelling  
-- 📫 Reach me at: **yourmail@example.com**
+- 📫 Reach me at: **ankitshukla5562@gmail.com**
 
 ---
 
